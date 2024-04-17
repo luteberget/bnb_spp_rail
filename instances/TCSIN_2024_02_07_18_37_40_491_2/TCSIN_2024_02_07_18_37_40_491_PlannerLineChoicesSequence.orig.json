@@ -1,0 +1,599 @@
+{
+  "routing_choice": [
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2402",
+      "out_resource": "3240",
+      "in_resource": "3238"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "1836",
+      "out_resource": "3230",
+      "in_resource": "3229"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2394",
+      "out_resource": "3191",
+      "in_resource": "3226"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2361",
+      "out_resource": "3185",
+      "in_resource": "3191"
+    },
+    {
+      "train": "TRAIN_4",
+      "routing_point": "1081",
+      "out_resource": "1976",
+      "in_resource": "1975"
+    },
+    {
+      "train": "TRAIN_4",
+      "routing_point": "1412",
+      "out_resource": "1980",
+      "in_resource": "1978"
+    },
+    {
+      "train": "TRAIN_4",
+      "routing_point": "1404",
+      "out_resource": "1969",
+      "in_resource": "1968"
+    },
+    {
+      "train": "TRAIN_6",
+      "routing_point": "2097",
+      "out_resource": "2872",
+      "in_resource": "2931"
+    },
+    {
+      "train": "TRAIN_6",
+      "routing_point": "2098",
+      "out_resource": "2877",
+      "in_resource": "2872"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2236",
+      "out_resource": "2985",
+      "in_resource": "2984"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "1794",
+      "out_resource": "2987",
+      "in_resource": "2985"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2402",
+      "out_resource": "3240",
+      "in_resource": "3238"
+    },
+    {
+      "train": "TRAIN_19",
+      "routing_point": "2580",
+      "out_resource": "3149",
+      "in_resource": "3505"
+    },
+    {
+      "train": "TRAIN_27",
+      "routing_point": "1792",
+      "out_resource": "3267",
+      "in_resource": "3266"
+    },
+    {
+      "train": "TRAIN_29",
+      "routing_point": "2563",
+      "out_resource": "3478",
+      "in_resource": "2576"
+    },
+    {
+      "train": "TRAIN_29",
+      "routing_point": "2072",
+      "out_resource": "2838",
+      "in_resource": "3480"
+    },
+    {
+      "train": "TRAIN_29",
+      "routing_point": "1789",
+      "out_resource": "3506",
+      "in_resource": "2838"
+    },
+    {
+      "train": "TRAIN_29",
+      "routing_point": "1977",
+      "out_resource": "2749",
+      "in_resource": "3506"
+    },
+    {
+      "train": "TRAIN_32",
+      "routing_point": "2160",
+      "out_resource": "3360",
+      "in_resource": "3358"
+    },
+    {
+      "train": "TRAIN_32",
+      "routing_point": "2480",
+      "out_resource": "3362",
+      "in_resource": "3360"
+    },
+    {
+      "train": "TRAIN_32",
+      "routing_point": "2253",
+      "out_resource": "3499",
+      "in_resource": "3497"
+    },
+    {
+      "train": "TRAIN_36",
+      "routing_point": "1792",
+      "out_resource": "3267",
+      "in_resource": "3266"
+    },
+    {
+      "train": "TRAIN_36",
+      "routing_point": "2422",
+      "out_resource": "3264",
+      "in_resource": "3272"
+    },
+    {
+      "train": "TRAIN_36",
+      "routing_point": "1941",
+      "out_resource": "2697",
+      "in_resource": "2563"
+    },
+    {
+      "train": "TRAIN_36",
+      "routing_point": "1949",
+      "out_resource": "2709",
+      "in_resource": "2697"
+    },
+    {
+      "train": "TRAIN_36",
+      "routing_point": "1950",
+      "out_resource": "3258",
+      "in_resource": "2709"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "1841",
+      "out_resource": "3181",
+      "in_resource": "3178"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "1843",
+      "out_resource": "3154",
+      "in_resource": "3152"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "2580",
+      "out_resource": "3149",
+      "in_resource": "3505"
+    },
+    {
+      "train": "TRAIN_38",
+      "routing_point": "1073",
+      "out_resource": "1963",
+      "in_resource": "1962"
+    },
+    {
+      "train": "TRAIN_39",
+      "routing_point": "1789",
+      "out_resource": "3464",
+      "in_resource": "2868"
+    },
+    {
+      "train": "TRAIN_40",
+      "routing_point": "2421",
+      "out_resource": "3273",
+      "in_resource": "3271"
+    },
+    {
+      "train": "TRAIN_40",
+      "routing_point": "1941",
+      "out_resource": "2697",
+      "in_resource": "2563"
+    },
+    {
+      "train": "TRAIN_40",
+      "routing_point": "1949",
+      "out_resource": "2709",
+      "in_resource": "2697"
+    },
+    {
+      "train": "TRAIN_40",
+      "routing_point": "1950",
+      "out_resource": "3258",
+      "in_resource": "2709"
+    },
+    {
+      "train": "TRAIN_41",
+      "routing_point": "2483",
+      "out_resource": "2924",
+      "in_resource": "3370"
+    },
+    {
+      "train": "TRAIN_45",
+      "routing_point": "1081",
+      "out_resource": "1976",
+      "in_resource": "1975"
+    },
+    {
+      "train": "TRAIN_45",
+      "routing_point": "1412",
+      "out_resource": "1980",
+      "in_resource": "1978"
+    },
+    {
+      "train": "TRAIN_45",
+      "routing_point": "1404",
+      "out_resource": "1969",
+      "in_resource": "1968"
+    },
+    {
+      "train": "TRAIN_45",
+      "routing_point": "1073",
+      "out_resource": "1963",
+      "in_resource": "1962"
+    },
+    {
+      "train": "TRAIN_52",
+      "routing_point": "2100",
+      "out_resource": "2877",
+      "in_resource": "3469"
+    },
+    {
+      "train": "TRAIN_55",
+      "routing_point": "1789",
+      "out_resource": "3506",
+      "in_resource": "3351"
+    },
+    {
+      "train": "TRAIN_55",
+      "routing_point": "1977",
+      "out_resource": "2749",
+      "in_resource": "3506"
+    },
+    {
+      "train": "TRAIN_60",
+      "routing_point": "2097",
+      "out_resource": "2872",
+      "in_resource": "2931"
+    },
+    {
+      "train": "TRAIN_60",
+      "routing_point": "2098",
+      "out_resource": "2877",
+      "in_resource": "2872"
+    },
+    {
+      "train": "TRAIN_61",
+      "routing_point": "1941",
+      "out_resource": "2697",
+      "in_resource": "2563"
+    },
+    {
+      "train": "TRAIN_61",
+      "routing_point": "1950",
+      "out_resource": "3258",
+      "in_resource": "2709"
+    },
+    {
+      "train": "TRAIN_66",
+      "routing_point": "2379",
+      "out_resource": "3207",
+      "in_resource": "4285"
+    },
+    {
+      "train": "TRAIN_71",
+      "routing_point": "1789",
+      "out_resource": "2837",
+      "in_resource": "2868"
+    },
+    {
+      "train": "TRAIN_72",
+      "routing_point": "2100",
+      "out_resource": "2877",
+      "in_resource": "3469"
+    },
+    {
+      "train": "TRAIN_72",
+      "routing_point": "2098",
+      "out_resource": "2873",
+      "in_resource": "2877"
+    },
+    {
+      "train": "TRAIN_73",
+      "routing_point": "1405",
+      "out_resource": "1969",
+      "in_resource": "1967"
+    },
+    {
+      "train": "TRAIN_74",
+      "routing_point": "2097",
+      "out_resource": "2872",
+      "in_resource": "2931"
+    },
+    {
+      "train": "TRAIN_74",
+      "routing_point": "2098",
+      "out_resource": "2877",
+      "in_resource": "2872"
+    },
+    {
+      "train": "TRAIN_82",
+      "routing_point": "2422",
+      "out_resource": "3265",
+      "in_resource": "3274"
+    },
+    {
+      "train": "TRAIN_82",
+      "routing_point": "1941",
+      "out_resource": "2697",
+      "in_resource": "2563"
+    },
+    {
+      "train": "TRAIN_82",
+      "routing_point": "1949",
+      "out_resource": "2709",
+      "in_resource": "2697"
+    },
+    {
+      "train": "TRAIN_82",
+      "routing_point": "1950",
+      "out_resource": "3258",
+      "in_resource": "2709"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2478",
+      "out_resource": "3356",
+      "in_resource": "3354"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2479",
+      "out_resource": "3007",
+      "in_resource": "3356"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2160",
+      "out_resource": "3360",
+      "in_resource": "3358"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2480",
+      "out_resource": "3362",
+      "in_resource": "3360"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2253",
+      "out_resource": "3499",
+      "in_resource": "3497"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2576",
+      "out_resource": "3501",
+      "in_resource": "3499"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2150",
+      "out_resource": "3363",
+      "in_resource": "2923"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2145",
+      "out_resource": "3364",
+      "in_resource": "2919"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2481",
+      "out_resource": "3366",
+      "in_resource": "3364"
+    },
+    {
+      "train": "TRAIN_84",
+      "routing_point": "2482",
+      "out_resource": "3368",
+      "in_resource": "3366"
+    },
+    {
+      "train": "TRAIN_89",
+      "routing_point": "1789",
+      "out_resource": "3464",
+      "in_resource": "2868"
+    },
+    {
+      "train": "TRAIN_90",
+      "routing_point": "2402",
+      "out_resource": "3240",
+      "in_resource": "3238"
+    }
+  ],
+  "conflict_choice": [
+    {
+      "train": "TRAIN_6",
+      "other_train": "TRAIN_72",
+      "loser_train": "TRAIN_72",
+      "waiting_resource": "2161",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_6",
+      "other_train": "TRAIN_29",
+      "loser_train": "TRAIN_29",
+      "waiting_resource": "2550",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_9",
+      "other_train": "TRAIN_31",
+      "loser_train": "TRAIN_31",
+      "waiting_resource": "2467",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_25",
+      "other_train": "TRAIN_74",
+      "loser_train": "TRAIN_74",
+      "waiting_resource": "2877",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_29",
+      "other_train": "TRAIN_71",
+      "loser_train": "TRAIN_71",
+      "waiting_resource": "2837",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_33",
+      "other_train": "TRAIN_43",
+      "loser_train": "TRAIN_43",
+      "waiting_resource": "2600",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_33",
+      "other_train": "TRAIN_83",
+      "loser_train": "TRAIN_83",
+      "waiting_resource": "1992",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_42",
+      "other_train": "TRAIN_51",
+      "loser_train": "TRAIN_51",
+      "waiting_resource": "2364",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_43",
+      "other_train": "TRAIN_35",
+      "loser_train": "TRAIN_35",
+      "waiting_resource": "3336",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_60",
+      "other_train": "TRAIN_72",
+      "loser_train": "TRAIN_72",
+      "waiting_resource": "2161",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_60",
+      "other_train": "TRAIN_29",
+      "loser_train": "TRAIN_29",
+      "waiting_resource": "2550",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_64",
+      "other_train": "TRAIN_37",
+      "loser_train": "TRAIN_37",
+      "waiting_resource": "3152",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_72",
+      "other_train": "TRAIN_74",
+      "loser_train": "TRAIN_74",
+      "waiting_resource": "2872",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_73",
+      "other_train": "TRAIN_45",
+      "loser_train": "TRAIN_45",
+      "waiting_resource": "1418",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_73",
+      "other_train": "TRAIN_38",
+      "loser_train": "TRAIN_38",
+      "waiting_resource": "1970",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_74",
+      "other_train": "TRAIN_52",
+      "loser_train": "TRAIN_52",
+      "waiting_resource": "1807",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_83",
+      "other_train": "TRAIN_9",
+      "loser_train": "TRAIN_9",
+      "waiting_resource": "2468",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_83",
+      "other_train": "TRAIN_35",
+      "loser_train": "TRAIN_35",
+      "waiting_resource": "2465",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_84",
+      "other_train": "TRAIN_41",
+      "loser_train": "TRAIN_41",
+      "waiting_resource": "1894",
+      "waiting_resource_is_track": false
+    }
+  ],
+  "train_priorities": {
+    "TRAIN_1": 5,
+    "TRAIN_4": 5,
+    "TRAIN_6": 5,
+    "TRAIN_9": 3,
+    "TRAIN_11": 3,
+    "TRAIN_19": 5,
+    "TRAIN_25": 5,
+    "TRAIN_27": 5,
+    "TRAIN_29": 5,
+    "TRAIN_31": 5,
+    "TRAIN_32": 5,
+    "TRAIN_33": 5,
+    "TRAIN_35": 5,
+    "TRAIN_36": 5,
+    "TRAIN_37": 5,
+    "TRAIN_38": 5,
+    "TRAIN_39": 5,
+    "TRAIN_40": 5,
+    "TRAIN_41": 5,
+    "TRAIN_42": 5,
+    "TRAIN_43": 5,
+    "TRAIN_45": 5,
+    "TRAIN_51": 5,
+    "TRAIN_52": 5,
+    "TRAIN_55": 5,
+    "TRAIN_60": 5,
+    "TRAIN_61": 5,
+    "TRAIN_64": 5,
+    "TRAIN_66": 5,
+    "TRAIN_71": 5,
+    "TRAIN_72": 5,
+    "TRAIN_73": 5,
+    "TRAIN_74": 5,
+    "TRAIN_82": 1,
+    "TRAIN_83": 1,
+    "TRAIN_84": 1,
+    "TRAIN_89": 5,
+    "TRAIN_90": 5
+  }
+}

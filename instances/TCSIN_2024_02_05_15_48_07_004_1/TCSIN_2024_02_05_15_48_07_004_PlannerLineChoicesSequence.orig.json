@@ -1,0 +1,225 @@
+{
+  "routing_choice": [
+    {
+      "train": "TRAIN_1",
+      "routing_point": "1961",
+      "out_resource": "2701",
+      "in_resource": "2716"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2216",
+      "out_resource": "2971",
+      "in_resource": "2701"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2156",
+      "out_resource": "3884",
+      "in_resource": "3882"
+    },
+    {
+      "train": "TRAIN_1",
+      "routing_point": "2157",
+      "out_resource": "3886",
+      "in_resource": "3884"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2829",
+      "out_resource": "3886",
+      "in_resource": "3881"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2157",
+      "out_resource": "3884",
+      "in_resource": "3886"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2156",
+      "out_resource": "3882",
+      "in_resource": "3884"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2044",
+      "out_resource": "3888",
+      "in_resource": "3882"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2004",
+      "out_resource": "3896",
+      "in_resource": "2815"
+    },
+    {
+      "train": "TRAIN_11",
+      "routing_point": "2216",
+      "out_resource": "2701",
+      "in_resource": "3896"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "2044",
+      "out_resource": "3888",
+      "in_resource": "3882"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "2004",
+      "out_resource": "3896",
+      "in_resource": "2815"
+    },
+    {
+      "train": "TRAIN_37",
+      "routing_point": "2216",
+      "out_resource": "2701",
+      "in_resource": "3896"
+    },
+    {
+      "train": "TRAIN_43",
+      "routing_point": "2004",
+      "out_resource": "3896",
+      "in_resource": "2815"
+    }
+  ],
+  "conflict_choice": [
+    {
+      "train": "TRAIN_1",
+      "other_train": "TRAIN_37",
+      "loser_train": "TRAIN_37",
+      "waiting_resource": "3896",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_2",
+      "other_train": "TRAIN_6",
+      "loser_train": "TRAIN_6",
+      "waiting_resource": "2843",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_2",
+      "other_train": "TRAIN_43",
+      "loser_train": "TRAIN_43",
+      "waiting_resource": "2844",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_6",
+      "other_train": "TRAIN_24",
+      "loser_train": "TRAIN_24",
+      "waiting_resource": "2843",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_12",
+      "other_train": "TRAIN_4",
+      "loser_train": "TRAIN_4",
+      "waiting_resource": "2837",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_12",
+      "other_train": "TRAIN_35",
+      "loser_train": "TRAIN_35",
+      "waiting_resource": "2272",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_16",
+      "other_train": "TRAIN_6",
+      "loser_train": "TRAIN_6",
+      "waiting_resource": "2843",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_19",
+      "other_train": "TRAIN_39",
+      "loser_train": "TRAIN_39",
+      "waiting_resource": "2813",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_42",
+      "other_train": "TRAIN_36",
+      "loser_train": "TRAIN_36",
+      "waiting_resource": "2008",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_62",
+      "other_train": "TRAIN_44",
+      "loser_train": "TRAIN_44",
+      "waiting_resource": "2855",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_67",
+      "other_train": "TRAIN_36",
+      "loser_train": "TRAIN_36",
+      "waiting_resource": "2008",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_72",
+      "other_train": "TRAIN_57",
+      "loser_train": "TRAIN_57",
+      "waiting_resource": "2186",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "TRAIN_72",
+      "other_train": "TRAIN_36",
+      "loser_train": "TRAIN_36",
+      "waiting_resource": "2008",
+      "waiting_resource_is_track": false
+    },
+    {
+      "train": "0X88050BB8_2216_2-3",
+      "other_train": "TRAIN_1",
+      "loser_train": "TRAIN_1",
+      "waiting_resource": "2701",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "0X88051525_2767",
+      "other_train": "TRAIN_72",
+      "loser_train": "TRAIN_72",
+      "waiting_resource": "3559",
+      "waiting_resource_is_track": true
+    },
+    {
+      "train": "TRAIN_74",
+      "other_train": "TRAIN_12",
+      "loser_train": "TRAIN_12",
+      "waiting_resource": "2272",
+      "waiting_resource_is_track": false
+    }
+  ],
+  "train_priorities": {
+    "TRAIN_1": 1,
+    "TRAIN_2": 5,
+    "TRAIN_4": 5,
+    "TRAIN_6": 5,
+    "TRAIN_11": 3,
+    "TRAIN_12": 3,
+    "TRAIN_16": 3,
+    "TRAIN_19": 3,
+    "TRAIN_24": 3,
+    "TRAIN_35": 5,
+    "TRAIN_36": 5,
+    "TRAIN_37": 5,
+    "TRAIN_39": 5,
+    "TRAIN_42": 5,
+    "TRAIN_43": 5,
+    "TRAIN_44": 5,
+    "TRAIN_57": 5,
+    "TRAIN_62": 5,
+    "TRAIN_67": 1,
+    "TRAIN_72": 1,
+    "TRAIN_74": 3
+  }
+}

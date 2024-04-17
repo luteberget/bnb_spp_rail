@@ -1,0 +1,1407 @@
+{
+  "train_infos": {
+    "TRAIN_0": {
+      "category": "P",
+      "priority": 1,
+      "default_length": 409,
+      "speed": 70,
+      "line_point_headway": 127,
+      "followers": [
+        "TRAIN_26",
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_86"
+      ],
+      "crossings": [
+        "TRAIN_54"
+      ]
+    },
+    "TRAIN_1": {
+      "category": "C",
+      "priority": 5,
+      "default_length": 7120,
+      "speed": 50,
+      "line_point_headway": 219,
+      "followers": [
+        "TRAIN_60",
+        "TRAIN_72"
+      ],
+      "crossings": [
+        "TRAIN_49"
+      ]
+    },
+    "TRAIN_2": {
+      "category": "C",
+      "priority": 5,
+      "default_length": 8258,
+      "speed": 60,
+      "line_point_headway": 219,
+      "followers": [
+        "TRAIN_3",
+        "TRAIN_39",
+        "TRAIN_40",
+        "TRAIN_45",
+        "TRAIN_50",
+        "TRAIN_68",
+        "TRAIN_71"
+      ]
+    },
+    "TRAIN_3": {
+      "category": "C",
+      "priority": 5,
+      "default_length": 8255,
+      "speed": 60,
+      "line_point_headway": 219,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_5",
+        "TRAIN_40",
+        "TRAIN_68"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_16",
+        "TRAIN_18",
+        "TRAIN_24",
+        "TRAIN_69"
+      ]
+    },
+    "TRAIN_4": {
+      "category": "C",
+      "priority": 5,
+      "default_length": 8258,
+      "speed": 60,
+      "line_point_headway": 219,
+      "followers": [
+        "TRAIN_63"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_36"
+      ]
+    },
+    "TRAIN_5": {
+      "category": "C",
+      "priority": 5,
+      "default_length": 7387,
+      "speed": 60,
+      "line_point_headway": 219,
+      "followers": [
+        "TRAIN_3",
+        "TRAIN_40",
+        "TRAIN_68"
+      ],
+      "crossings": [
+        "TRAIN_16",
+        "TRAIN_18"
+      ]
+    },
+    "TRAIN_6": {
+      "category": "G",
+      "priority": 5,
+      "default_length": 6545,
+      "speed": 60,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_45",
+        "TRAIN_50",
+        "TRAIN_71"
+      ],
+      "crossings": [
+        "TRAIN_73"
+      ]
+    },
+    "TRAIN_7": {
+      "category": "G",
+      "priority": 5,
+      "default_length": 6618,
+      "speed": 60,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_28",
+        "TRAIN_33",
+        "TRAIN_36",
+        "TRAIN_69"
+      ],
+      "crossings": [
+        "TRAIN_3",
+        "TRAIN_4",
+        "TRAIN_10",
+        "TRAIN_31",
+        "TRAIN_40",
+        "TRAIN_63",
+        "TRAIN_75"
+      ]
+    },
+    "TRAIN_8": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 14045,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_9",
+        "TRAIN_37",
+        "TRAIN_81",
+        "TRAIN_85"
+      ]
+    },
+    "TRAIN_9": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 13390,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_8",
+        "TRAIN_37",
+        "TRAIN_81",
+        "TRAIN_85"
+      ],
+      "crossings": [
+        "TRAIN_10"
+      ]
+    },
+    "TRAIN_10": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 15888,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_12",
+        "TRAIN_33",
+        "TRAIN_75"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_9",
+        "TRAIN_28",
+        "TRAIN_31",
+        "TRAIN_34",
+        "TRAIN_69"
+      ]
+    },
+    "TRAIN_11": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 8489,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_62",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_70"
+      ]
+    },
+    "TRAIN_12": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 12548,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_10"
+      ],
+      "crossings": [
+        "TRAIN_34"
+      ]
+    },
+    "TRAIN_13": {
+      "category": "I",
+      "priority": 3,
+      "default_length": 7681,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_22",
+        "TRAIN_32",
+        "TRAIN_54",
+        "TRAIN_83"
+      ],
+      "crossings": [
+        "TRAIN_25",
+        "TRAIN_30",
+        "TRAIN_53"
+      ]
+    },
+    "TRAIN_14": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 100,
+      "speed": 50,
+      "line_point_headway": 148,
+      "crossings": [
+        "TRAIN_31"
+      ]
+    },
+    "TRAIN_15": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 100,
+      "speed": 50,
+      "line_point_headway": 148
+    },
+    "TRAIN_16": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148,
+      "followers": [
+        "TRAIN_18"
+      ],
+      "crossings": [
+        "TRAIN_3",
+        "TRAIN_5",
+        "TRAIN_40"
+      ]
+    },
+    "TRAIN_17": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148,
+      "followers": [
+        "TRAIN_60",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_18": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148,
+      "followers": [
+        "TRAIN_16"
+      ],
+      "crossings": [
+        "TRAIN_3",
+        "TRAIN_5",
+        "TRAIN_40"
+      ]
+    },
+    "TRAIN_19": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148
+    },
+    "TRAIN_20": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 5689,
+      "speed": 50,
+      "line_point_headway": 148,
+      "followers": [
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_66"
+      ]
+    },
+    "TRAIN_21": {
+      "category": "L",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148
+    },
+    "TRAIN_22": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 4590,
+      "speed": 60,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_13",
+        "TRAIN_25",
+        "TRAIN_54",
+        "TRAIN_83"
+      ],
+      "crossings": [
+        "TRAIN_26",
+        "TRAIN_32",
+        "TRAIN_86"
+      ]
+    },
+    "TRAIN_23": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10405,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_24": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 4416,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_69"
+      ],
+      "crossings": [
+        "TRAIN_3",
+        "TRAIN_40"
+      ]
+    },
+    "TRAIN_25": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10124,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_22",
+        "TRAIN_30",
+        "TRAIN_53"
+      ],
+      "crossings": [
+        "TRAIN_13",
+        "TRAIN_32",
+        "TRAIN_54"
+      ]
+    },
+    "TRAIN_26": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 4928,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_0",
+        "TRAIN_29",
+        "TRAIN_35",
+        "TRAIN_41",
+        "TRAIN_86"
+      ],
+      "crossings": [
+        "TRAIN_22",
+        "TRAIN_54",
+        "TRAIN_61",
+        "TRAIN_83"
+      ]
+    },
+    "TRAIN_27": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7491,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_59",
+        "TRAIN_60",
+        "TRAIN_72"
+      ],
+      "crossings": [
+        "TRAIN_47"
+      ]
+    },
+    "TRAIN_28": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9143,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_7",
+        "TRAIN_31",
+        "TRAIN_33",
+        "TRAIN_69"
+      ],
+      "crossings": [
+        "TRAIN_10",
+        "TRAIN_40",
+        "TRAIN_75",
+        "TRAIN_79"
+      ]
+    },
+    "TRAIN_29": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8813,
+      "speed": 60,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_0",
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_26",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_64",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_54",
+        "TRAIN_61",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_30": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 6700,
+      "speed": 30,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_25",
+        "TRAIN_53"
+      ],
+      "crossings": [
+        "TRAIN_13",
+        "TRAIN_32",
+        "TRAIN_54"
+      ]
+    },
+    "TRAIN_31": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9490,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_28"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_10",
+        "TRAIN_14",
+        "TRAIN_33",
+        "TRAIN_69",
+        "TRAIN_75",
+        "TRAIN_79"
+      ]
+    },
+    "TRAIN_32": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7158,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_13",
+        "TRAIN_54"
+      ],
+      "crossings": [
+        "TRAIN_22",
+        "TRAIN_25",
+        "TRAIN_30",
+        "TRAIN_53"
+      ]
+    },
+    "TRAIN_33": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7568,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_7",
+        "TRAIN_10",
+        "TRAIN_28",
+        "TRAIN_69"
+      ],
+      "crossings": [
+        "TRAIN_31",
+        "TRAIN_40",
+        "TRAIN_75"
+      ]
+    },
+    "TRAIN_34": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9160,
+      "speed": 50,
+      "line_point_headway": 212,
+      "crossings": [
+        "TRAIN_10",
+        "TRAIN_12"
+      ]
+    },
+    "TRAIN_35": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8765,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_26",
+        "TRAIN_86"
+      ],
+      "crossings": [
+        "TRAIN_54"
+      ]
+    },
+    "TRAIN_36": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 3081,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_7"
+      ],
+      "crossings": [
+        "TRAIN_4"
+      ]
+    },
+    "TRAIN_37": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8150,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_8",
+        "TRAIN_9",
+        "TRAIN_81",
+        "TRAIN_85"
+      ]
+    },
+    "TRAIN_38": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10582,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_66"
+      ]
+    },
+    "TRAIN_39": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 6639,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_2"
+      ]
+    },
+    "TRAIN_40": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 5371,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_3",
+        "TRAIN_5",
+        "TRAIN_68"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_16",
+        "TRAIN_18",
+        "TRAIN_24",
+        "TRAIN_28",
+        "TRAIN_33",
+        "TRAIN_69"
+      ]
+    },
+    "TRAIN_41": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 12875,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_0",
+        "TRAIN_11",
+        "TRAIN_26",
+        "TRAIN_29",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_54",
+        "TRAIN_61"
+      ]
+    },
+    "TRAIN_42": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10048,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_59",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_43": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 3359,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_44": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8968,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_45": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7682,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_6",
+        "TRAIN_50",
+        "TRAIN_71"
+      ],
+      "crossings": [
+        "TRAIN_73"
+      ]
+    },
+    "TRAIN_46": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7319,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_55",
+        "TRAIN_56",
+        "TRAIN_83"
+      ]
+    },
+    "TRAIN_47": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 6700,
+      "speed": 30,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_70"
+      ],
+      "crossings": [
+        "TRAIN_27",
+        "TRAIN_59",
+        "TRAIN_60",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_48": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10987,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_49": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7336,
+      "speed": 40,
+      "line_point_headway": 212,
+      "crossings": [
+        "TRAIN_1",
+        "TRAIN_60",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_50": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 10077,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_6",
+        "TRAIN_45",
+        "TRAIN_71"
+      ],
+      "crossings": [
+        "TRAIN_73"
+      ]
+    },
+    "TRAIN_51": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 6983,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_52": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9120,
+      "speed": 50,
+      "line_point_headway": 212,
+      "crossings": [
+        "TRAIN_29",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_72",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ]
+    },
+    "TRAIN_53": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 2755,
+      "speed": 70,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_25",
+        "TRAIN_30"
+      ],
+      "crossings": [
+        "TRAIN_13",
+        "TRAIN_32",
+        "TRAIN_54"
+      ]
+    },
+    "TRAIN_54": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9906,
+      "speed": 40,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_13",
+        "TRAIN_22",
+        "TRAIN_32",
+        "TRAIN_61",
+        "TRAIN_83"
+      ],
+      "crossings": [
+        "TRAIN_0",
+        "TRAIN_25",
+        "TRAIN_26",
+        "TRAIN_29",
+        "TRAIN_30",
+        "TRAIN_35",
+        "TRAIN_41",
+        "TRAIN_53",
+        "TRAIN_86"
+      ]
+    },
+    "TRAIN_55": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7331,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_46",
+        "TRAIN_56",
+        "TRAIN_83",
+        "TRAIN_87"
+      ]
+    },
+    "TRAIN_56": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7822,
+      "speed": 60,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_46",
+        "TRAIN_55",
+        "TRAIN_83"
+      ]
+    },
+    "TRAIN_57": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7961,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_58": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 4745,
+      "speed": 50,
+      "line_point_headway": 212
+    },
+    "TRAIN_59": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7584,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_20",
+        "TRAIN_27",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_42",
+        "TRAIN_60",
+        "TRAIN_72",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_47",
+        "TRAIN_52",
+        "TRAIN_66"
+      ]
+    },
+    "TRAIN_60": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7823,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_1",
+        "TRAIN_17",
+        "TRAIN_27",
+        "TRAIN_59",
+        "TRAIN_72"
+      ],
+      "crossings": [
+        "TRAIN_47",
+        "TRAIN_49"
+      ]
+    },
+    "TRAIN_61": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7817,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_54"
+      ],
+      "crossings": [
+        "TRAIN_26",
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_86"
+      ]
+    },
+    "TRAIN_62": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8505,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_11",
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ]
+    },
+    "TRAIN_63": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 7470,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_4"
+      ],
+      "crossings": [
+        "TRAIN_7"
+      ]
+    },
+    "TRAIN_64": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 9847,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_29"
+      ]
+    },
+    "TRAIN_65": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 6836,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_62",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ]
+    },
+    "TRAIN_66": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 4146,
+      "speed": 50,
+      "line_point_headway": 212,
+      "crossings": [
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ]
+    },
+    "TRAIN_67": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 6500,
+      "speed": 30,
+      "line_point_headway": 209
+    },
+    "TRAIN_68": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 5846,
+      "speed": 60,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_3",
+        "TRAIN_5",
+        "TRAIN_40"
+      ]
+    },
+    "TRAIN_69": {
+      "category": "O",
+      "priority": 3,
+      "default_length": 5952,
+      "speed": 60,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_7",
+        "TRAIN_24",
+        "TRAIN_28",
+        "TRAIN_33"
+      ],
+      "crossings": [
+        "TRAIN_3",
+        "TRAIN_10",
+        "TRAIN_31",
+        "TRAIN_40",
+        "TRAIN_75"
+      ]
+    },
+    "TRAIN_70": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 5738,
+      "speed": 50,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_29",
+        "TRAIN_41",
+        "TRAIN_47",
+        "TRAIN_62",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_11"
+      ]
+    },
+    "TRAIN_71": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 5845,
+      "speed": 50,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_2",
+        "TRAIN_6",
+        "TRAIN_45",
+        "TRAIN_50"
+      ],
+      "crossings": [
+        "TRAIN_73"
+      ]
+    },
+    "TRAIN_72": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 5555,
+      "speed": 60,
+      "line_point_headway": 209,
+      "followers": [
+        "TRAIN_1",
+        "TRAIN_17",
+        "TRAIN_27",
+        "TRAIN_59",
+        "TRAIN_60"
+      ],
+      "crossings": [
+        "TRAIN_29",
+        "TRAIN_42",
+        "TRAIN_47",
+        "TRAIN_49",
+        "TRAIN_52",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ]
+    },
+    "TRAIN_73": {
+      "category": "O",
+      "priority": 5,
+      "default_length": 5788,
+      "speed": 60,
+      "line_point_headway": 209,
+      "crossings": [
+        "TRAIN_6",
+        "TRAIN_45",
+        "TRAIN_50",
+        "TRAIN_71"
+      ]
+    },
+    "TRAIN_74": {
+      "category": "Q",
+      "priority": 5,
+      "default_length": 1983,
+      "speed": 50,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_75": {
+      "category": "R",
+      "priority": 5,
+      "default_length": 3581,
+      "speed": 60,
+      "line_point_headway": 182,
+      "followers": [
+        "TRAIN_10",
+        "TRAIN_33"
+      ],
+      "crossings": [
+        "TRAIN_7",
+        "TRAIN_28",
+        "TRAIN_31",
+        "TRAIN_69"
+      ]
+    },
+    "TRAIN_76": {
+      "category": "W",
+      "priority": 5,
+      "default_length": 2700,
+      "speed": 30,
+      "line_point_headway": 157
+    },
+    "TRAIN_77": {
+      "category": "Y",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148
+    },
+    "TRAIN_78": {
+      "category": "Y",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148
+    },
+    "TRAIN_79": {
+      "category": "Y",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148,
+      "crossings": [
+        "TRAIN_28",
+        "TRAIN_31"
+      ]
+    },
+    "TRAIN_80": {
+      "category": "Y",
+      "priority": 5,
+      "default_length": 2000,
+      "speed": 30,
+      "line_point_headway": 148
+    },
+    "TRAIN_81": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 8039,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_8",
+        "TRAIN_9",
+        "TRAIN_37",
+        "TRAIN_85"
+      ]
+    },
+    "TRAIN_82": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 12455,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_84",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_83": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 6426,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_13",
+        "TRAIN_22",
+        "TRAIN_46",
+        "TRAIN_54",
+        "TRAIN_55",
+        "TRAIN_56",
+        "TRAIN_87"
+      ],
+      "crossings": [
+        "TRAIN_26",
+        "TRAIN_86"
+      ]
+    },
+    "TRAIN_84": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 8545,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_86",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    },
+    "TRAIN_85": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 9503,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_8",
+        "TRAIN_9",
+        "TRAIN_37",
+        "TRAIN_81"
+      ]
+    },
+    "TRAIN_86": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 8108,
+      "speed": 70,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_0",
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_26",
+        "TRAIN_29",
+        "TRAIN_35",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_88"
+      ],
+      "crossings": [
+        "TRAIN_22",
+        "TRAIN_52",
+        "TRAIN_54",
+        "TRAIN_61",
+        "TRAIN_66",
+        "TRAIN_72",
+        "TRAIN_83"
+      ]
+    },
+    "TRAIN_87": {
+      "category": "Z",
+      "priority": 1,
+      "default_length": 5365,
+      "speed": 50,
+      "line_point_headway": 184,
+      "followers": [
+        "TRAIN_55",
+        "TRAIN_83"
+      ]
+    },
+    "TRAIN_88": {
+      "category": "M",
+      "priority": 5,
+      "default_length": 8629,
+      "speed": 60,
+      "line_point_headway": 212,
+      "followers": [
+        "TRAIN_11",
+        "TRAIN_20",
+        "TRAIN_29",
+        "TRAIN_38",
+        "TRAIN_41",
+        "TRAIN_42",
+        "TRAIN_59",
+        "TRAIN_62",
+        "TRAIN_65",
+        "TRAIN_70",
+        "TRAIN_74",
+        "TRAIN_82",
+        "TRAIN_84",
+        "TRAIN_86"
+      ],
+      "crossings": [
+        "TRAIN_52",
+        "TRAIN_66",
+        "TRAIN_72"
+      ]
+    }
+  }
+}
